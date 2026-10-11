@@ -1,7 +1,7 @@
 {
-  "versionCode": 2,
-  "versionName": "1.0.1",
-  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/v1.0.1/maxlatino.apk",
+  "versionCode": 3,
+  "versionName": "1.0.2",
+  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/v1.0.2/maxlatino.apk",
   "mandatory": false,
-  "notes": "Nueva versión de MAX latino tv con mejoras."
+  "notes": "Prueba de actualización automática."
 }
