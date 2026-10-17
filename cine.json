@@ -1,1 +1,7 @@
-
+{
+  "versionCode": 2,
+  "versionName": "1.0.1",
+  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.1/maxcine.apk",
+  "mandatory": false,
+  "notes": "Mejoras para celulares: pantalla y controles del reproductor más cómodos."
+}
