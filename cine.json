@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.0.2",
-  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.2/maxcine.apk",
+  "versionCode": 4,
+  "versionName": "1.0.3",
+  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.3/maxcine.apk",
   "mandatory": false,
-  "notes": "Canales en vivo más estables en celular y tablet. Búsqueda y \"Ver todo\" mejor adaptados al celular."
+  "notes": "Nuevo modo de video compatible en Ajustes para televisores que muestran recuadros en la imagen."
 }
