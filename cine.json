@@ -1,7 +1,7 @@
-{
-  "versionCode": 4,
-  "versionName": "1.0.3",
-  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.3/maxcine.apk",
-  "mandatory": false,
-  "notes": "Nuevo modo de video compatible en Ajustes para televisores que muestran recuadros en la imagen."
-}
+   {
+     "versionCode": 5,
+     "versionName": "1.0.4",
+     "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.4/maxcine.apk",
+     "mandatory": false,
+     "notes": "Corrige la imagen rota en algunos televisores Google TV."
+   }
