@@ -1,7 +1,7 @@
-  {
-  "versionCode": 6,
-  "versionName": "1.0.5",
-  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.5/maxcine.apk",
+{
+  "versionCode": 7,
+  "versionName": "1.0.6",
+  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.6/maxcine.apk",
   "mandatory": false,
-  "notes": "Corrige la imagen rota en algunos televisores Google TV."
+  "notes": "Películas y series más fluidas: sin congelones ni reinicios."
 }
