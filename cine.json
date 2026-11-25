@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.0.8",
-  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.8/maxcine.apk",
+  "versionCode": 10,
+  "versionName": "1.0.9",
+  "apk": "https://github.com/Maxlatino2026/maxlatino-updates/releases/download/cine-v1.0.9/maxcine.apk",
   "mandatory": false,
-  "notes": "Buscador más rápido y modo liviano para televisores con poca memoria."
+  "notes": "Teclado del buscador más compatible con todas las marcas de TV."
 }
